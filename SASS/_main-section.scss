@@ -1,0 +1,13 @@
+/* Main Section container */
+.main-section-container{
+    padding-top: 56px;
+    display: flex;
+
+    &.left-padding{
+        padding-left:240px;
+    }
+
+    .main-content-container{
+        padding: 10px 30px;
+    }
+}
