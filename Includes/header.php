@@ -1,4 +1,7 @@
-<?php require_once("Includes/config.php") ?>
+<?php 
+    require_once("Includes/config.php");
+    include "Includes/autoloader.inc.php"; 
+?>
 
 <!DOCTYPE html>
 <html lang="en">

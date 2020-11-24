@@ -1,6 +1,5 @@
 <?php 
     require_once("Includes/header.php"); 
-    require_once("Classes/VideoDetailsFormProvider.php"); 
 ?>
 
 <div class="column">
@@ -11,3 +10,5 @@
 </div>
 
 <?php require_once("Includes/footer.php"); ?>
+
+<!-- TODO: Upload form in Modal? No use dedicating entire page to it? -->
